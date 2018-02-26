@@ -1,0 +1,19 @@
+{
+  "name": "curso-mean2",
+  "version": "1.0.0",
+  "description": "Curso aplicacion NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javiat/Curso.git"
+  },
+  "author": "Javier Martin Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javiat/Curso/issues"
+  },
+  "homepage": "https://github.com/Javiat/Curso#readme"
+}
